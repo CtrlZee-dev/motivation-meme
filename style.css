@@ -1,0 +1,21 @@
+
+body{
+    background-color: black;
+    
+}
+#first{
+    width: 50%;
+    margin-left: 25%;
+}
+.meme-pic{
+    border: 5px solid white;
+    width: 100%;
+}
+#title{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
